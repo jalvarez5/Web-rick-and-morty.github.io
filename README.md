@@ -1,6 +1,7 @@
 # Web-rick-and-morty.github.io
 Presentado por:
-
+Jhon Jairo Gonzalez Sanchez
+Juan David Alarcon Mozo
 Jose Alvarez Toro, 
 Aldair Gomez Agudelo
 
