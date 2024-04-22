@@ -1,7 +1,7 @@
 # Web-rick-and-morty.github.io
 Presentado por:
 
-Jose Alvarez Toro
+Jose Alvarez Toro, 
 Aldair Gomez Agudelo
 
 Este proyecto se focaliza en la famosa serie animada 'Rick and Morty', haciendo uso de su API oficial.
